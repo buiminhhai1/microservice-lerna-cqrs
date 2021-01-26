@@ -1,6 +1,6 @@
 <p align="center">
     <a class="no-attachment-icon" href="#" target="_blank" rel="nofollow noreferrer">
-        <img src="https://user-images.githubusercontent.com/645641/79596653-38f81200-80e1-11ea-98cd-1c6a3bb5de51.png" alt="lerna-logo">
+        <img src="https://user-images.githubusercontent.com/645641/79596653-38f81200-80e1-11ea-98cd-1c6a3bb5de51.png" alt="lerna-logo" height="300">
     </a>
 </p>
 
