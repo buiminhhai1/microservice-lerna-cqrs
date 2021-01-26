@@ -1,0 +1,27 @@
+{
+  "name": "@haikms/service-account",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "buiminhhai1 <ngovietduc20088@gmail.com>",
+  "homepage": "https://github.com/buiminhhai1/microservice-lerna-cqrs.git",
+  "license": "ISC",
+  "main": "lib/service-account.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:buiminhhai1/ultimate-backend-repo.git",
+    "directory": "apps/service-account"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/buiminhhai1/ultimate-backend-repo/issues"
+  }
+}
